@@ -62,17 +62,5 @@
   "tix": {
     "dataSource": "db",
     "public": true
-  },
-   "category": {
-    "dataSource": "db",
-    "public": true
-  },
-   "post": {
-    "dataSource": "db",
-    "public": true
-  },
-   "order": {
-    "dataSource": "db",
-    "public": true
   }
 }
